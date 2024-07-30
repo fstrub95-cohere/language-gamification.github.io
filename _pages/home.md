@@ -61,33 +61,33 @@ This workshop invites an exploration of Language Gamification through a diverse 
         <div class="sponsor">
             <img src="/assets/img/speakers/tom_schaul.jpg" alt="Tom">
             <p><a href="https://schaul.site44.com/">Tom Schaul</a>
-            <br>Google DeepMind<br>09:20-10:00</p>
+            <br>Google DeepMind</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/aga_slowik.jpg" alt="Aga">
             <p><a href="https://slowika.github.io/">Agnieszka Słowik</a>
-            <br>Microsoft Research Cambridge<br>13:40-14:20</p>
+            <br>Microsoft Research Cambridge</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/nouha_dziri.jpg" alt="Nouha">
             <p><a href="https://nouhadziri.github.io/">Nouha Dziri</a>
-            <br>Allen Institute for AI (AI2)<br>14:20-15:00</p>
+            <br>Allen Institute for AI (AI2)</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/marc_lanctot.jpg" alt="Marc">
             <p><a href="https://mlanctot.info/">Marc Lanctot</a>
-            <br>Google DeepMind<br>15:50-16:30</p>
+            <br>Google DeepMind</p>
         </div>
         <div class="sponsor">
             <img src="/assets/img/speakers/ida.png" alt="Ida">
             <p><a href="https://www.momen-nejad.org/">Ida Momennejad</a>
-            <br>Microsoft Research NYC<br>16:30-17:10</p>
+            <br>Microsoft Research NYC</p>
         </div>
     </div>
 </html>
 
 <span style="color:red;font-size:22px;">
-    More speakers to be announced soon!
+    More speakers are to be announced soon!
 </span>
 
 <!-- ## Organization Chairs -->
